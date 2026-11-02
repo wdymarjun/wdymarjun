@@ -11,6 +11,10 @@ Building thoughtful software, systems, and products.
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-singh-682453378/)
 [![Unstop](https://img.shields.io/badge/UNSTOP-111111?style=for-the-badge&logoColor=white)](https://unstop.com/u/arjunsin14938)
 
+
+### `arjun@github:~$ ./portrait.sh`
+
+<img src="./profile-ascii.svg" width="520" alt="ASCII portrait generated from my GitHub avatar" />
 </div>
 
 ---
