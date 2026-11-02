@@ -12,9 +12,9 @@ Building thoughtful software, systems, and products.
 [![Unstop](https://img.shields.io/badge/UNSTOP-111111?style=for-the-badge&logoColor=white)](https://unstop.com/u/arjunsin14938)
 
 
-### `arjun@github:~$ ./portrait.sh`
+### `arjun@github:~$ whoami`
 
-<img src="./profile-ascii.svg" width="520" alt="ASCII portrait generated from my GitHub avatar" />
+<img src="https://avatars.githubusercontent.com/u/287134858?v=4" width="220" alt="Arjun Singh profile photo" />
 </div>
 
 ---
