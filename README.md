@@ -14,7 +14,7 @@ Building thoughtful software, systems, and products.
 
 ### `arjun@github:~$ whoami`
 
-<img src="https://avatars.githubusercontent.com/u/287134858?v=4" width="220" alt="Arjun Singh profile photo" />
+<img src="./profile-card.svg" width="520" alt="AS monogram identity card for Arjun Singh, systems engineer and product builder" />
 </div>
 
 ---
