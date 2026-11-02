@@ -14,7 +14,7 @@ Building thoughtful software, systems, and products.
 
 ### `arjun@github:~$ whoami`
 
-<img src="./profile-photo.jpg" width="320" alt="Arjun Singh as a child" />
+<img src="./profile-ascii.svg" width="840" alt="Terminal-style ASCII portrait of Arjun Singh beside a personal profile card" />
 </div>
 
 ---
